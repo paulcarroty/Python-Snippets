@@ -1,4 +1,4 @@
-Python-Learning
+Python Snippets
 ===============
 
-My code and forks from the various sources
+My useful Python Snippets and interests code
