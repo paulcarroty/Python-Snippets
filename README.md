@@ -1,4 +1,4 @@
 Python Snippets
 ===============
 
-My useful Python Snippets and interests code
+My useful Python Snippets and interesting code
